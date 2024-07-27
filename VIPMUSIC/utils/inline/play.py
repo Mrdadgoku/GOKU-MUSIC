@@ -119,10 +119,10 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {videoid}"
+                text="😏𝘎𝘖𝘒𝘜 </> 𝘔𝘖𝘋𝘡™➜", callback_data=f"downloadvideo {videoid}"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {videoid}"
+                text="🪄˹ ᴬᴺᴺᴵᴱ ✘ ᴍᴜsɪᴄ˼ ♪™➜", callback_data=f"downloadaudio {videoid}"
             ),
         ],
         [
@@ -570,15 +570,15 @@ def panel_markup_clone(_, vidid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {vidid}"
+                text="😏𝘎𝘖𝘒𝘜 </> 𝘔𝘖𝘋𝘡™➜", callback_data=f"downloadvideo {vidid}"
             ),
             InlineKeyboardButton(
-                text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {vidid}"
+                text="🪄˹ ᴬᴺᴺᴵᴱ ✘ ᴍᴜsɪᴄ˼ ♪™➜", callback_data=f"downloadaudio {vidid}"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="✚ ᴘʟᴀʏʟɪsᴛ ✚", callback_data=f"vip_playlist {vidid}"
+                text="✚𝘎𝘖𝘒𝘜 </> 𝘔𝘖𝘋𝘡™➜✚", callback_data=f"vip_playlist {vidid}"
             ),
         ],
     ]
