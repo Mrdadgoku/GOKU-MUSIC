@@ -108,10 +108,10 @@ async def start_pm(client: Client, message: Message, _):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📥 ᴠɪᴅᴇᴏ", callback_data=f"downloadvideo {query}"
+                            text="𝘎𝘖𝘒𝘜 </> 𝘔𝘖𝘋𝘡™", callback_data=f"downloadvideo {query}"
                         ),
                         InlineKeyboardButton(
-                            text="📥 ᴀᴜᴅɪᴏ", callback_data=f"downloadaudio {query}"
+                            text="@ANNIExMUSICbot", callback_data=f"downloadaudio {query}"
                         ),
                     ],
                     [
