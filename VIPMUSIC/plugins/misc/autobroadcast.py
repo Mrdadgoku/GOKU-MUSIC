@@ -9,7 +9,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
 AUTO_GCASTS = AUTO_GCAST.strip().lower() == "on"
 
-START_IMG_URLS = "https://telegra.ph/file/8f4653dfada0a9bc112b5.jpg"
+START_IMG_URLS = "https://graph.org/file/eabfb1087a5508dbbb218.jpg"
 
 MESSAGES = f"""**๏𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐦𝐮𝐬𝐢𝐜 𝐩𝐥𝐚𝐲𝐞𝐫 𝐛𝐨𝐭 𝐟𝐨𝐫 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐠𝐫𝐨𝐮𝐩𝐬 +𝐜𝐡𝐚𝐧𝐧𝐞𝐥𝐬 𝐯𝐜.🔥
 ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
@@ -20,23 +20,23 @@ MESSAGES = f"""**๏𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 �
 
 😀ᴜꜱᴇ » /start ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-😀 ʙᴏᴛ : @AlienMusic_opbot
-😀 ʙᴏᴛ : @AlienMusic_opbot
+😀 ʙᴏᴛ : @ANNIExMUSICbot
+😀 ʙᴏᴛ : @ANNIExMUSICbot
 🔒ᴜꜱᴇ » /start ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-✅ ʙᴏᴛ : @AlienMusic_opbot
+✅ ʙᴏᴛ : @ANNIExMUSICbot
 ⚡️⚡️⚡️⚡️⚡️⚡️⚡️.
 
-𝐎ᴡɴᴇʀ :- @II_RAJPUT_SHIV_OP_II
+𝐎ᴡɴᴇʀ :- @GOKUxEDITION
 
-𝐉ᴏɪɴ ᴄʜᴀɴɴᴇʟ :- https://t.me/Dns_Official_Channel**"""
+𝐉ᴏɪɴ ᴄʜᴀɴɴᴇʟ :- https://t.me/GOKUxMODZ**"""
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
                 "๏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ๏",
-                url=f"https://t.me/AlienMusic_opbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/ANNIExMUSICbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
@@ -57,7 +57,7 @@ BUTTON = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 "๏ ᴋɪᴅɴᴀᴘ ᴍᴇ ๏",
-                url=f"https://t.me/AlienMusic_opbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
+                url=f"https://t.me/ANNIExMUSICbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users",
             )
         ]
     ]
