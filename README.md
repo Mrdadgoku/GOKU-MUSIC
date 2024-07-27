@@ -15,7 +15,7 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
 
 
 <h2 align="center">
-    ─「 𝐒𝐇𝐈𝐕 𝐌𝐔𝐒𝐈𝐂 」─
+    ─「 🧚🏻‍♀𝗗𝘄𝗮𝗿𝗮𝗸𝗮 </> 𝗡𝗮𝗴𝗮𝗿𝗶 ™➜ 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -24,7 +24,7 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ccb70957819c2abfa5466.jpg">
+  <img src="https://graph.org/file/1a163f1275162465c6480.jpg">
 </p>
 
 <p align="center">
