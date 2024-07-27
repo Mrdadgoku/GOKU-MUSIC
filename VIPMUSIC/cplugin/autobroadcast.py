@@ -9,22 +9,38 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 # Convert AUTO_GCAST to boolean based on "On" or "Off"
 AUTO_GCASTS = AUTO_GCAST.strip().lower() == "off"
 
-START_IMG_URLS = "https://telegra.ph/file/8be064de4663788e86535.jpg"
+START_IMG_URLS = "https://graph.org/file/eabfb1087a5508dbbb218.jpg"
 
-MESSAGES = f"""**𝗟𝗼𝗼𝗸𝗶𝗻𝗴 𝗙𝗼𝗿 𝗔𝗴𝗲𝗻𝘁 𝗪𝗼𝗿𝗸 𝗜𝗻 𝗡𝗲𝘄 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗝𝘂𝘀𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 𝗠𝗲 𝗪𝗵𝗼 𝗪𝗮𝗻𝘁 𝘁𝗼 𝗪𝗼𝗿𝗸 𝗔𝘀 𝗔 𝗔𝗴𝗲𝗻𝘁.
+MESSAGES = f"""**𝗙𝗨𝗟𝗟 𝗠𝗔𝗜𝗡 𝗜𝗗 𝗦𝗔𝗙𝗘 𝗛𝗔𝗖𝗞☑
+❤️‍🔥𝗖𝗢𝗡𝗤𝗨𝗘𝗥𝗢𝗥 𝗚𝗔𝗥𝗥𝗘𝗡𝗧𝗬❤️‍🔥
+Vᴇʀsɪᴏɴ - 3.3.0 💥
+Aʀᴍ - 32x64Bɪᴛ ✨
+Gᴀᴍᴇ - Bɢᴍɪ 🇮🇳
 
-𝗠𝘀𝗴 𝗛𝗲𝗿𝗲 :- @OkWinAgent
+⭐️𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 3.3
+➜Magic-Server Feel Like Bt 
+➜No Any Rules Play With Enjoy 
+➜000% Lag Issue Smooth Ui 
+➜No Crush Play Continue Match
+➜𝟭 𝗗𝗔𝗬 - 150
+➜3 DAY - 300
+➜7 DAY - 600
+➜14 DAY - 1300
+➜30 DAY - 2000
 
-𝗦𝗮𝗹𝗹𝗲𝗿𝘆 𝗦𝘁𝗮𝗿𝘁𝘀 𝘄𝗶𝘁𝗵 𝟮 𝗔𝗰𝘁𝗶𝘃𝗲 𝗣𝗹𝗮𝘆𝗲𝗿.
+🛒 𝗕𝗨𝗬 KEY HERE🛒
+➜ @GOKUxMODZbot✅
+➜ @GOKUxEDITION✅ :- @GOKUxEDITION
 
-𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗹𝗶𝗻𝗸 :- https://okwin.one/#/register?invitationCode=8284112316**"""
+𝗠𝗔𝗜𝗡 𝗜𝗗 𝗦𝗔𝗙𝗘 𝗛𝗔𝗖𝗞
+𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗹𝗶𝗻𝗸 :- https://t.me/+Rl3bz-NiX5w2NTU1**"""
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "๏ Click & Get ₹100 ๏",
-                url=f"https://okwin.one/#/register?invitationCode=8284112316",
+                "๏ Click & Get BGMI HACK ๏",
+                url=f"https://t.me/+Rl3bz-NiX5w2NTU1",
             )
         ]
     ]
