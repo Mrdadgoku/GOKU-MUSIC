@@ -35,14 +35,14 @@ async def ban_user(
     try:
         await app.ban_chat_member(chat_id, user_id)
     except ChatAdminRequired:
-        msg_text = "Ban rights? Nah, I'm just here for the digital high-fives 🙌\nGive me ban rights! 😡🥺"
+        msg_text = "ᴀʀʀᴇʏ ᴅɪᴅɪ ʙʜᴀɪʏᴀ ʙᴀɴ ᴘᴏᴡᴇʀ ᴛᴏʜ ᴅᴇᴅᴏ ᴘʜɪʀ ʙᴀɴ ʙᴀɴ ᴋʜᴇʟɴᴀ😒"
         return msg_text, False
     except UserAdminInvalid:
         msg_text = "I wont ban an admin bruh!!"
         return msg_text, False
     except Exception as e:
         if user_id == {app.id}:
-            msg_text = "why should i ban myself? sorry but I'm not stupid like you"
+            msg_text = "ɴɪᴋᴀʟ ʟᴀᴡᴅᴇ ʜᴀᴍᴀʀᴇ ᴍᴀʟɪᴋ ᴏʀ ᴍᴀʟᴋᴀɪɴ ꜱᴇ ʙᴀᴋᴄʜᴏᴅɪ 😒"
             return msg_text, False
 
         msg_text = f"opps!!\n{e}"
@@ -66,7 +66,7 @@ async def unban_user(user_id, first_name, admin_id, admin_name, chat_id):
     try:
         await app.unban_chat_member(chat_id, user_id)
     except ChatAdminRequired:
-        msg_text = "Ban rights? Nah, I'm just here for the digital high-fives 🙌\nGive me ban rights! 😡🥺"
+        msg_text = "ᴀʀʀᴇʏ ᴅɪᴅɪ ʙʜᴀɪʏᴀ ʙᴀɴ ᴘᴏᴡᴇʀ ᴛᴏʜ ᴅᴇᴅᴏ ᴘʜɪʀ ʙᴀɴ ʙᴀɴ ᴋʜᴇʟɴᴀ😒"
         return msg_text
     except Exception as e:
         msg_text = f"opps!!\n{e}"
@@ -91,14 +91,14 @@ async def mute_user(
         else:
             await app.restrict_chat_member(chat_id, user_id, ChatPermissions())
     except ChatAdminRequired:
-        msg_text = "Mute rights? Nah, I'm just here for the digital high-fives 🙌\nGive me mute rights! 😡🥺"
+        msg_text = "ᴀʀʀᴇʏ ᴅɪᴅɪ ʙʜᴀɪʏᴀ ʙᴀɴ ᴘᴏᴡᴇʀ ᴛᴏʜ ᴅᴇᴅᴏ ᴘʜɪʀ ʙᴀɴ ʙᴀɴ ᴋʜᴇʟɴᴀ😒"
         return msg_text, False
     except UserAdminInvalid:
         msg_text = "I wont mute an admin bruh!!"
         return msg_text, False
     except Exception as e:
         if user_id == {app.id}:
-            msg_text = "why should i mute myself? sorry but I'm not stupid like you"
+            msg_text = "ɴɪᴋᴀʟ ʟᴀᴡᴅᴇ ʜᴀᴍᴀʀᴇ ᴍᴀʟɪᴋ ᴏʀ ᴍᴀʟᴋᴀɪɴ ꜱᴇ ʙᴀᴋᴄʜᴏᴅɪ 😒"
             return msg_text, False
 
         msg_text = f"opps!!\n{e}"
@@ -132,7 +132,7 @@ async def unmute_user(user_id, first_name, admin_id, admin_name, chat_id):
             ),
         )
     except ChatAdminRequired:
-        msg_text = "Mute rights? Nah, I'm just here for the digital high-fives 🙌\nGive me unmute rights! 😡🥺"
+        msg_text = "ᴀʀʀᴇʏ ᴅɪᴅɪ ʙʜᴀɪʏᴀ ʙᴀɴ ᴘᴏᴡᴇʀ ᴛᴏʜ ᴅᴇᴅᴏ ᴘʜɪʀ ʙᴀɴ ʙᴀɴ ᴋʜᴇʟɴᴀ😒"
         return msg_text
     except Exception as e:
         msg_text = f"opps!!\n{e}"
