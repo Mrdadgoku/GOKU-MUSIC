@@ -20,7 +20,7 @@ THE-SHIV/THE-SHIV is a ✨ _special_ ✨ repository because its README.md (this 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <h2 align="center">
-    ─「 sʜɪᴠ ダ ᴍᴜsɪᴄ 」─
+    ─「 𝐆𝐎𝐊𝐔🇽𝐄𝐝𝐢𝐭𝐢𝐨𝐧 」─
 </h2>
 
 <p align="center">
