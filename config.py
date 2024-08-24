@@ -33,15 +33,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Rajputshivsingh65/DNS-MUSIC",
+    "https://github.com/Mrdadgoku/GOKU-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+Rl3bz-NiX5w2NTU1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+I5-dDLLxyq1hYzBl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GOKUxMODZ")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GOKUxENGINE")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "100"))
@@ -114,7 +114,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/8be064de4663788e86535.jpg"
+    "START_IMG_URL", "https://graph.org/file/eabfb1087a5508dbbb218.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/b727863499abbc9a6a1e9.jpg"
